@@ -55,4 +55,4 @@ This repository contains the implementation of 40 Cryptography Lab experiments i
 Due to environment limitations, if a terminal screenshot cannot be generated programmatically, a placeholder `output.png` and `screenshot_instructions.txt` are provided inside each directory. Run the scripts locally to capture actual execution screenshots for submission.
 
 ## Author
-**Hemanth**
+**VISHNU VARDHAN K**
