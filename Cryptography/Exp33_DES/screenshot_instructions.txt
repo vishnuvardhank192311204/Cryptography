@@ -1,0 +1,1 @@
+Execute `des.py` to verify correctness and capture local screenshot if necessary.
